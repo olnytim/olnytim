@@ -20,7 +20,7 @@ I thrive on collaboration and problem-solving, bridging gaps between development
 
 ### Let's Connect 🤝
 
-Open to connecting with DevOps enthusiasts, developers, and tech aficionados. Reach out for discussions on networks, CI/CD, or anything DevOps-related! 🌈🚀
+Open to connecting with DevOps enthusiasts, developers, and tech aficionados. Reach out for discussions on networks, CI/CD, or anything DevOps-related! 🚀
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/olnytim22) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/13premier12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/olnytim22) [![Telegram](https://img.shields.io/twitter/url?label=Me%20on%20Telegram&logo=Telegram&style=social&url=https%3A%2F%2Ft.me%2Fpremier1312)](https://t.me/premier1312)
